@@ -1,0 +1,21 @@
+{
+  "name": "workshop1-1dv610",
+  "version": "1.0.0",
+  "description": "Test commit.",
+  "homepage": "https://github.com/225nm/Workshop1-1dv610#readme",
+  "bugs": {
+    "url": "https://github.com/225nm/Workshop1-1dv610/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/225nm/Workshop1-1dv610.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  }
+}
